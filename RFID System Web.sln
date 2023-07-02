@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFID System Web", "RFID System Web\RFID System Web.csproj", "{91687E3D-FF81-4300-B5D8-046B8DCE055B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91687E3D-FF81-4300-B5D8-046B8DCE055B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91687E3D-FF81-4300-B5D8-046B8DCE055B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91687E3D-FF81-4300-B5D8-046B8DCE055B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91687E3D-FF81-4300-B5D8-046B8DCE055B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB5ED29-7A10-4BB4-B45C-835B8F6156EC}
+	EndGlobalSection
+EndGlobal
